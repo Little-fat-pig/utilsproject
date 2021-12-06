@@ -63,7 +63,7 @@ public class DelRepeatChar {
 
     public static void main(String[] args) {
         //测试样例
-        String demo="jdksajhfijusdkhfjksdljfk";
+        String demo="sadas5547s45d74s878ds5";
         System.out.println(DelRepeatChar.deleteRepeatValues(demo));
 
     }
